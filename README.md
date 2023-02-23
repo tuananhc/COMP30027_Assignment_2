@@ -17,3 +17,5 @@ Techniques used:
 - Naive-Bayes
 - Support Vector Machine
 - Analysis of the results produced by each model
+
+Result: 14.5/20.
