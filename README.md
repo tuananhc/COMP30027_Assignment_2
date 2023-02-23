@@ -1,6 +1,7 @@
 # COMP30027 Assignment 2
 
 Author: Anh Chau
+
 This code is part of the Machine Learning (COMP30027) assignment 2 at the University of Melbourne.
 
 This project aims to learn from a set of tweets and analyse them to predict their sentiments.
